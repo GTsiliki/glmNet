@@ -12,8 +12,8 @@ path for linear regression, logistic and multinomial regression models, Poisson 
 \tabular{ll}{
 Package: \tab glmNETpkg\cr
 Type: \tab Package\cr
-Version: \tab 2.0\cr
-Date: \tab 2018-05-11\cr
+Version: \tab 1.0\cr
+Date: \tab 2015-04-23\cr
 License: \tab GPL-2\cr
 }
 }
